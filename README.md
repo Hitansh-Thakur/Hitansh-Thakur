@@ -48,5 +48,4 @@ Description: Dynamic & Responsive online Salad Ordering Website
 
 ## Connect with Me
 
-
--   [Twitter](https://twitter.com/your-profile)
+-   [Twitter](https://x.com/HitanshThakur)
