@@ -10,7 +10,10 @@
 
 ## Skills
 
--   **Languages:** ![JavaScript,NodeJS,C,C++,PHP,Python,HTML,CSS](https://skillicons.dev/icons?i=js,nodejs,c,cpp,php,python,html,css)
+-   **Languages:**
+
+    ![JavaScript,NodeJS,C,C++,PHP,Python,HTML,CSS](https://skillicons.dev/icons?i=js,nodejs,c,cpp,php,python,html,css)
+
 -   **Frameworks/Libraries:**
 
     ![ReactJS,Express,Socket.io,Mongoose,Tailwind CSS,Bootstrap](https://skillicons.dev/icons?i=react,express,tailwind,bootstrap)
