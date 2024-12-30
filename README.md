@@ -1,33 +1,39 @@
-# Hi there, I'm Hitansh Thakur! 👋
+# Hi there, I'm Hitansh Thakur! 👋💻
 
 ![GitHub followers](https://img.shields.io/github/followers/Hitansh-Thakur?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Hitansh-Thakur?affiliations=OWNER&style=social)
 
 ## About Me
 
--   🔭 I’m currently working on **[Your Project Name](https://github.com/Hitansh-Thakur/Your-Project-Repo)**
--   🌱 I’m currently learning **[Technology/Language]**
--   👯 I’m looking to collaborate on **[Project or Open Source Initiative]**
--   🤔 I’m looking for help with **[Specific Topic or Project]**
--   💬 Ask me about **[Your Expertise/Interests]**
--   📫 How to reach me: **[Your Email](mailto:your-email@example.com)**
--   😄 Pronouns: **[Your Pronouns]**
--   ⚡ Fun fact: **[Interesting Fact About You]**
+-   💻 I am currently a student. **Devlopment/Programing** is my Passion and curious to **learn new technologies** & very intersted in creating something useful
+-   🌱 I’m currently learning **[MERN STACK]**
+-   👯 I’m looking to collaborate on **[Project or Open Source Initiative in JS,MERN,REACTJS]**
 
 ## Skills
 
--   **Languages:** [Languages you are proficient in]
--   **Frameworks/Libraries:** [Frameworks and libraries you use]
--   **Tools:** [Development tools you use]
+-   **Languages:** ![JavaScript,NodeJS,C,C++,PHP,Python,HTML,CSS](https://skillicons.dev/icons?i=js,nodejs,c,cpp,php,python,html,css)
+-   **Frameworks/Libraries:**
+
+    ![ReactJS,Express,Socket.io,Mongoose,Tailwind CSS,Bootstrap](https://skillicons.dev/icons?i=react,express,tailwind,bootstrap)
+    <img src="./socketiologo.svg" style='background: white;border-radius:.7rem;padding:.35rem;margin-left:.2rem;' alt="drawing" width="38"/>
+
+-   **Database:**
+
+    ![MySQL,MongoDB](https://skillicons.dev/icons?i=mysql,mongo)
+
+-   **Tools:**
+
+    ![ReactJS,Express,Socket.io,Mongoose,Tailwind CSS,Bootstrap](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+    <img src="./chatgptlogo.png" style='background: white;border-radius:.7rem;margin-left:.2rem;' alt="drawing" width="48"/>
 
 ## Projects
 
-### [Project 1 Name](https://github.com/Hitansh-Thakur/Project-1-Repo)
+### [ChapApp using Socket.io](https://github.com/Hitansh-Thakur/WebSockets---chatApp)
 
-Description: Brief description of the project.
+Description: This is a simple chat application built using Node.js, Express, and Socket.IO. The application allows users to send and receive messages in real-time.
 
-### [Project 2 Name](https://github.com/Hitansh-Thakur/Project-2-Repo)
+### [Healthy Bytes](https://github.com/Hitansh-Thakur/HealthyBytes)
 
-Description: Brief description of the project.
+Description: Dynamic & Responsive online Salad Ordering Website
 
 ## GitHub Stats
 
@@ -39,6 +45,5 @@ Description: Brief description of the project.
 
 ## Connect with Me
 
--   [LinkedIn](https://www.linkedin.com/in/your-profile)
+
 -   [Twitter](https://twitter.com/your-profile)
--   [Website/Blog](https://your-website.com)
