@@ -25,7 +25,7 @@
 
 -   **Tools:**
 
-    ![ReactJS,Express,Socket.io,Mongoose,Tailwind CSS,Bootstrap](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+    ![ReactJS,Express,Socket.io,Mongoose,Tailwind CSS,Bootstrap](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,vercel)
     <img src="./chatgptlogo.png" style='background: white;margin-left:.2rem;' alt="chatgpt" width="48"/>
 
 ## Projects
