@@ -12,7 +12,7 @@
 
 -   **Languages:**
 
-    ![JavaScript,NodeJS,C,C++,PHP,Python,HTML,CSS](https://skillicons.dev/icons?i=js,nodejs,c,cpp,php,python,html,css)
+    ![JavaScript,NodeJS,C,C++,PHP,Python,HTML,CSS](https://skillicons.dev/icons?i=js,nodejs,c,cpp,java,php,python,html,css)
 
 -   **Frameworks/Libraries:**
 
